@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Knab.CodingAssessment.Exchange.Common\Knab.CodingAssessment.Exchange.Common.csproj" />
+    <ProjectReference Include="..\Knab.CodingAssessment.Seedwork.Domain\Knab.CodingAssessment.Seedwork.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

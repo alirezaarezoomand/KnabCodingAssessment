@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D8F48630-FEDE-46DB-ACF3-F650099F183D}"
+	ProjectSection(SolutionItems) = preProject
+		readme.md = readme.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exchange", "Exchange", "{E141BCDA-6864-460B-8AC1-AF671FC6FB15}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Knab.CodingAssessment.Exchange.Common", "Src\Knab.CodingAssessment.Exchange.Common\Knab.CodingAssessment.Exchange.Common.csproj", "{2C22F86E-5D3F-44C8-881F-E23FF7098D3B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{50017260-EDE0-4015-ABF3-2687311DA9D4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Knab.CodingAssessment.DataProvider.CoinMarketCap", "Src\Knab.CodingAssessment.DataProvider.CoinMarketCap\Knab.CodingAssessment.DataProvider.CoinMarketCap.csproj", "{7D0DEE8C-8A87-4972-865F-F64BAABD7E2B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Knab.CodingAssessment.Exchage.DataProvider", "Src\Knab.CodingAssessment.Exchage.DataProvider\Knab.CodingAssessment.Exchage.DataProvider.csproj", "{3909335A-15D3-4EB2-A87B-4B1E8E657F96}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Knab.CodingAssessment.Exchange.Endpoint.WebApi", "Src\Knab.CodingAssessment.Exchange.Endpoit.WebApi\Knab.CodingAssessment.Exchange.Endpoint.WebApi.csproj", "{AA7E8FB0-644B-47B7-AE5F-F3BCB5433802}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C22F86E-5D3F-44C8-881F-E23FF7098D3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C22F86E-5D3F-44C8-881F-E23FF7098D3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C22F86E-5D3F-44C8-881F-E23FF7098D3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C22F86E-5D3F-44C8-881F-E23FF7098D3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D0DEE8C-8A87-4972-865F-F64BAABD7E2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D0DEE8C-8A87-4972-865F-F64BAABD7E2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D0DEE8C-8A87-4972-865F-F64BAABD7E2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D0DEE8C-8A87-4972-865F-F64BAABD7E2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3909335A-15D3-4EB2-A87B-4B1E8E657F96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3909335A-15D3-4EB2-A87B-4B1E8E657F96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3909335A-15D3-4EB2-A87B-4B1E8E657F96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3909335A-15D3-4EB2-A87B-4B1E8E657F96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA7E8FB0-644B-47B7-AE5F-F3BCB5433802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA7E8FB0-644B-47B7-AE5F-F3BCB5433802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA7E8FB0-644B-47B7-AE5F-F3BCB5433802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA7E8FB0-644B-47B7-AE5F-F3BCB5433802}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2C22F86E-5D3F-44C8-881F-E23FF7098D3B} = {E141BCDA-6864-460B-8AC1-AF671FC6FB15}
+		{7D0DEE8C-8A87-4972-865F-F64BAABD7E2B} = {E141BCDA-6864-460B-8AC1-AF671FC6FB15}
+		{3909335A-15D3-4EB2-A87B-4B1E8E657F96} = {E141BCDA-6864-460B-8AC1-AF671FC6FB15}
+		{AA7E8FB0-644B-47B7-AE5F-F3BCB5433802} = {E141BCDA-6864-460B-8AC1-AF671FC6FB15}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {223442BC-5C46-4239-90DB-4C87657E1CD0}
+	EndGlobalSection
+EndGlobal

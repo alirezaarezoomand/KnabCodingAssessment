@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="CommandHandlers\" />
+    <Folder Include="EventHandlers\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Knab.CodingAssessment.Exchange.ApplicationServices.Contracts\Knab.CodingAssessment.Exchange.ApplicationServices.Contracts.csproj" />
+    <ProjectReference Include="..\Knab.CodingAssessment.Exchange.Repositories\Knab.CodingAssessment.Exchange.Repositories.csproj" />
+    <ProjectReference Include="..\Knab.CodingAssessment.Seedwork.Queries\Knab.CodingAssessment.Seedwork.Queries.csproj" />
+  </ItemGroup>
+
+</Project>
