@@ -93,7 +93,7 @@ I have mentions my point of view about this assessment in this document introduc
 		"childrens": 1
 	},
 	"jobs": ["Senior Software Developer", "Software Consultant"],
-	"skills: {
+	"skills": {
 		"technical_skills" : ["OOP", "SOLID", ".Net Core", ".Net Framework", "SQL Server", "Reactjs"],
 		"soft_skills": ["Problem Solver", "Flexible", "Self-Motivated", "Leader", "Planner"]
 	},
