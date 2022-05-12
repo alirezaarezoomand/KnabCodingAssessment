@@ -38,6 +38,8 @@ Also if I had enough time I would add or improve following parts
 * Implementing an appropriating User interface 
 * Applying facilities for monitoring the performance
 * Adding more unit and integration tests
+* Applying Circuit Breaker tools like Polly
+* Implementing other third party api to make failover and redundant services
 * Thinking about deployment
 
 ### 2.	What was the most useful feature that was added to the latest version of your language of choice? Please include a snippet of code that shows how you've used it.
