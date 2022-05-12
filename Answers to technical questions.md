@@ -43,7 +43,7 @@ Also if I had enough time I would add or improve following parts
 * Thinking about deployment
 
 ### 2.	What was the most useful feature that was added to the latest version of your language of choice? Please include a snippet of code that shows how you've used it.
-Microsoft has brought a new way of starting a mvc program by eliminating the Program class.
+Microsoft has brought a new minimal hosting model in order to reduce codes.
 ```c#
 var builder = WebApplication.CreateBuilder(args);
 
