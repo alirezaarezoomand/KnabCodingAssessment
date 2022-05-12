@@ -37,6 +37,7 @@ Also if I had enough time I would add or improve following parts
 * Applying throttling scenarios or CAPTCHA to prevent API over usage 
 * Implementing an appropriating User interface 
 * Applying facilities for monitoring the performance
+* Improving caching mechanism which may not be threadsafe now
 * Adding more unit and integration tests
 * Applying Circuit Breaker tools like Polly
 * Implementing other third party api to make failover and redundant services
