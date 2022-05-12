@@ -77,6 +77,7 @@ There are lots of methods and tools that track down the performance of a softwar
 ### 4.	What was the latest technical book you have read or tech conference you have been to? What did you learn?
 Recently I haven’t read any technical books but I read some articles about Azure (which because of limitation we don’t have access to this. I downloaded “Learn Azure in a Month of Lunches” and “Developers Guide To Azure” and have plan to start reading them soon) and Kafka to implement event streaming scenario in one of projects that I involved.
 Also, 8 months ago I decided to have experiences about React because the our frontend team used that to implement project frontend and we had lots of problem in it. So, I registered to a course in Udemy.com and after that I began to implementing frontend modules that solved lots of our issues.
+I Also, want to improve my knowlegde about docker and kubernetes specially pods and sidecars and service mesh tools like Consul.
 
 ### 5.	What do you think about this technical assessment?
 I have mentions my point of view about this assessment in this document introduction.
