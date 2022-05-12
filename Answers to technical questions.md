@@ -92,7 +92,7 @@ I have mentions my point of view about this assessment in this document introduc
 		"staus" : "married",
 		"childrens": 1
 	},
-	"jobs": ["Senior Software Developer", "Software Consultant"]
+	"jobs": ["Senior Software Developer", "Software Consultant"],
 	"skills: {
 		"technical_skills" : ["OOP", "SOLID", ".Net Core", ".Net Framework", "SQL Server", "Reactjs"],
 		"soft_skills": ["Problem Solver", "Flexible", "Self-Motivated", "Leader", "Planner"]
